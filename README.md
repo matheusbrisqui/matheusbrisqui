@@ -1,7 +1,4 @@
-### Hello World ! 👋
-
-<!--
-**matheusbrisqui/matheusbrisqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello World !
 
 Eu sou Matheus Brisqui Martinez<br><br>🎓 Atualmente, estudo Engenharia de Software na Universidade da FIAP<br><br>Sou apaixonado por desenvolvimento de software e tecnologia !<br><br> 🚀 Estou constantemente aprendendo e aprimorando minhas habilidades para criar soluções incríveis.<br><br>No momento, estou trabalhando em projetos pessoais e para aumentar meu portifólio, porém sempre aberto a novas experiências.<br><br>Me encontre no Linkedin ! <br><br>Para entrar em contato comigo, siga esse endereço de e-mail mabrisqui@gmail.com<br><br>📄 Confira meus projetos e contribuições no meu perfil do GitHub.<br><br>Obrigado pela visita, volte sempre !
  
